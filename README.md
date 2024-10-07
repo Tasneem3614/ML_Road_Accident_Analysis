@@ -1,1 +1,2 @@
-# ML_Road_Accident_Analysis
+**OVERVIEW**:
+The "Road Accident Analysis" project aims to predict road accident severity using a Kaggle dataset of 12,158 records with 15 attributes, including driver demographics, road conditions, and accident specifics. Key features include age, driving experience, weather, and road surface conditions. The project involves data cleaning, exploratory data analysis (EDA), and the development of machine learning models. Random Forest performed best with an accuracy of 95.61%. The analysis shows that younger, less experienced drivers are involved in more accidents, and weather has minimal impact. Model validation achieved a 0.94 score, though further refinements are needed for real-world applicability.
